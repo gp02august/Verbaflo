@@ -1,0 +1,23 @@
+# Ignore environment variables file
+.env
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore directory for storing uploaded PDF files
+uploads/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore logs and other temporary files
+*.log
+
+# Ignore specific IDE/editor files
+*.swp
+*.swo
+
+# Ignore OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
