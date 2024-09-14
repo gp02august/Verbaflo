@@ -30,18 +30,9 @@ Open your web browser and navigate to http://127.0.0.1:5000.
 
 **Generate and Download HTML Resume**
 
-After uploading, the application will process the file and convert it into an HTML resume.
+* After uploading, the application will process the file and convert it into an HTML resume.
 
-The HTML resume will be available for download once the process is complete.
-**1.2 Directory Structure**
-resume-generator/
-│
-├── app.py
-├── templates/
-│   └── index.html
-├── static/
-│   └── style.css
-├── uploads/ (for storing uploaded PDF files)
-├── README.md
-├── requirements.txt
-└── .env (for storing the OpenAI API key)
+* The HTML resume will be available for download once the process is complete.
+
+
+
